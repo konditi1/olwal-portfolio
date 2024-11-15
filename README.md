@@ -6,7 +6,7 @@ Welcome to **Olwal Portfolio**, a responsive and visually captivating portfolio 
 
 ## 🖼️ Live Demo
 
-Check out the live demo here: [Olwal Portfolio](#) **
+Check out the live demo here: [Olwal Portfolio](#) *https://konditi1.github.io/olwal-portfolio*
 
 ---
 
