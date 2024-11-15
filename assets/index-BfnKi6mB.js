@@ -271,7 +271,7 @@ Error generating stack: `+o.message+`
       text-decoration: underline;
     }
   }
-`;function _0({project:e}){return S.jsxs(oS,{whileHover:{scale:1.05},transition:{type:"spring",stiffness:300},children:[e.image&&S.jsx("img",{src:e.image,alt:`${e.title} screenshot`}),S.jsx("h3",{children:e.title}),S.jsx("p",{children:e.description}),S.jsx("a",{href:e.link,target:"_blank",rel:"noopener noreferrer",children:"View Project"})]})}_0.propTypes={project:Wt.shape({title:Wt.string.isRequired,description:Wt.string.isRequired,link:Wt.string.isRequired,image:Wt.string}).isRequired};const sS=F.div`
+`;function _0({project:e}){return S.jsxs(oS,{whileHover:{scale:1.05},transition:{type:"spring",stiffness:300},children:[e.image&&S.jsx("img",{src:e.image,alt:`${e.title} image`}),S.jsx("h3",{children:e.title}),S.jsx("p",{children:e.description}),S.jsx("a",{href:e.link,target:"_blank",rel:"noopener noreferrer",children:"View Project"})]})}_0.propTypes={project:Wt.shape({title:Wt.string.isRequired,description:Wt.string.isRequired,link:Wt.string.isRequired,image:Wt.string}).isRequired};const sS=F.div`
   padding: 2rem;
   background-color: #f9f9f9;
 
